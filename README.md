@@ -1,6 +1,5 @@
-# aaronjan98
-
-My name is Aaron Janovitch and I'm a full stack developer! 👋
+My name is Aaron Janovitch and I'm a full stack developer! 👋 \
+\
 🔭 I’m currently working on ... \
 🌱 I’m currently learning ... React Native \
 👯 I’m looking to collaborate on ... Vue.js \
