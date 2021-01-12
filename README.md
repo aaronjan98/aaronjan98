@@ -7,6 +7,6 @@
 📫 Reach me at aaronjanovitch@gmail.com || (818) 309 - 5783 
 
 ### ⚡ Fun facts:
-🏢 Graduated a technical coding school for full-stack web development
+🏢 Graduated a technical coding school for full-stack web development \
 🍎 I snack on takis and hot fries \
 🤪 I enjoy playing piano and flying my drone
