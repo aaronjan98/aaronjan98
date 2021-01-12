@@ -1,4 +1,4 @@
-### Hey 👋  call me AJ, I'm a software developer!
+## Hey 👋  call me AJ, I'm a software developer!
 
 🔭 I’m currently setting up _Google My Business_ for the company I'm interning for. \
 🌱 I’m learning React Native by creating a scheduling routine app as a fun side project. \
