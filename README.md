@@ -7,7 +7,6 @@
 💬 Open to collaborations and work opportunities \
 📫 Reach me at aaronjanovitch@gmail.com || (818) 309 - 5783 
 
----
 ### ⚡ Fun Facts:
 🍎 I snack on takis and hot fries \
 🎵 I enjoy playing the 12 bar blues on the piano and flying my drone \
