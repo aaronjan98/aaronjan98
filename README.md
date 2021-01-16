@@ -12,4 +12,4 @@
 🤪 I enjoy playing piano and flying my drone \
 🥅 Clicking on the card below will take you to my website
 
-[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronjan98&count_private=true&show_icons=true&theme=midnight-purple&text_color=00AEFF&icon_color=268bd2&title_color=b362ff&hide_border=true&hide=stars&custom_title=My+GitHub+Stats+:%29)](https://aaronjanovitch.com){:target="_blank"}
+[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronjan98&count_private=true&show_icons=true&theme=midnight-purple&text_color=00AEFF&icon_color=268bd2&title_color=b362ff&hide_border=true&hide=stars&custom_title=My+GitHub+Stats+:%29)](https://aaronjanovitch.com)
