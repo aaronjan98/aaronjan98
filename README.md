@@ -1,14 +1,14 @@
 ## Hey 👋  call me AJ, I'm a software developer!
 
-🔭 I’m currently setting up _Google My Business_ for Remote Roofing \
-🧰 Recently, I implemented a new landing page with Webflow from my team's website design \
+🔭 Recently I set up _Google My Business_ for Remote Roofing \
+🧰 Also, I implemented a new landing page design with Webflow \
 🌱 I’m learning React Native by creating a scheduling routine app as a fun side project \
-💻 I've worked the most with React, Node, and Python \
+💻 I'm obsessed with automating repetitive tasks... \
+   - For example, I created a cron job on Google's Compute Engine Cloud Shell to start morning standup meetings in Slack \
 💬 Open to collaborations and work opportunities \
 📫 Reach me at aaronjanovitch@gmail.com || (818) 309 - 5783 
 
 ### ⚡ Fun Facts:
-🍎 I snack on takis and hot fries \
 🎵 I enjoy playing the 12 bar blues on the piano and flying my drone \
 🥅 Clicking on the card below will take you to my website
 
