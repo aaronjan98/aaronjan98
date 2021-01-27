@@ -4,7 +4,8 @@
 🧰 Also, I implemented a new landing page design with Webflow \
 🌱 I’m learning React Native by creating a scheduling routine app as a fun side project \
 💻 I'm obsessed with automating repetitive tasks... \
-   - For example, I created a cron job on Google's Compute Engine Cloud Shell to start morning standup meetings in Slack \
+ ↳ For example, I created a cron job on Google's Compute Engine Cloud Shell to start morning standup meetings in Slack \   
+ 
 💬 Open to collaborations and work opportunities \
 📫 Reach me at aaronjanovitch@gmail.com || (818) 309 - 5783 
 
