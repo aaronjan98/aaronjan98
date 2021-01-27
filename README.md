@@ -1,8 +1,8 @@
 ## Hey 👋 &nbsp;call me AJ, I'm a software developer!
 
 🔭&nbsp; Recently I set up _Google My Business_ for Remote Roofing  
-🧰&nbsp; Also, I implemented a new landing page design with Webflow  
-🌱&nbsp; I’m learning React Native by creating a scheduling routine app as a fun side project  
+🧰&nbsp; Also, I implemented a new landing page design with Webflow for them  
+🌱&nbsp; Self-learning React Native by creating a scheduling routine app as a fun side project  
 💻&nbsp; I'm obsessed with automating repetitive tasks...  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ For example, I created a cron job on Google's Compute Engine Cloud Shell to start morning standup meetings in Slack  
 💬&nbsp; Open to collaborations and work opportunities  
