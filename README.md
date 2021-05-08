@@ -1,10 +1,9 @@
 ## Hey 👋 &nbsp;call me AJ, I'm a software developer!
 
-🔭&nbsp; Recently I set up _Google My Business_ for Remote Roofing  
-🌱&nbsp; Self-learning React Native by creating a scheduling routine app as a fun side project  
+🔭&nbsp; I stay up to date with blockchain technology, from Web 3.0 to NFTs, smart contracts, and cryptocurrencies.  
+🌱&nbsp; Learning React Native by creating a scheduling routine app as a fun side project  
 💻&nbsp; I'm obsessed with automating repetitive tasks...  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ For example, I created a cron job on Google's Compute Engine Cloud Shell to start morning standup meetings in Slack  
-📫&nbsp; Reach me at aaronjanovitch@gmail.com || (818) 309 - 5783 for collaborations or work opportunities  
 
 ### ⚡ Fun Facts:
 🎵&nbsp; I enjoy playing the 12 bar blues on the piano and flying my drone  
