@@ -1,4 +1,4 @@
-## Welcome! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="auto">I'm AJ, a Full Stack Blockchain developer
+## Welcome! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" height="auto">I'm AJ, a Full Stack Blockchain developer
 
 - 🌍&nbsp; Based in the US, California
 - 🖥️&nbsp; See my portfolio/resume at [aaronjanovitch.com](https://aaronjanovitch.com)
@@ -38,7 +38,7 @@
 ### ⚡ Fun Facts:
 
 - 🥃&nbsp; As a pastime, I enjoy sipping whiskey and listening to the blues.
-- 🎵&nbsp; Jk I don't drink; but, I do like to play jazz on the piano.
+- 🎵&nbsp; Jk I don't drink; but, I do like to play blues and jazz on the piano.
 - 🖼️&nbsp; I also like to code generative art and other projects with p5js.
 
 [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronjan98&count_private=true&show_icons=true&theme=midnight-purple&text_color=00AEFF&icon_color=268bd2&title_color=b362ff&hide_border=true&hide=stars&custom_title=My+GitHub+Stats+)](https://aaronjanovitch.com)
