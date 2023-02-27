@@ -1,13 +1,13 @@
-## Welcome! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" height="auto">I'm AJ, a Full Stack Blockchain developer
+## <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" height="auto">Welcome! I'm AJ, a Full Stack Blockchain developer
 
-- 🌍&nbsp; Based in the US, California
-- 🖥️&nbsp; See my portfolio/resume at [aaronjanovitch.com](https://aaronjanovitch.com)
-- ✉️ &nbsp; Contact me at [aaronjanovitch@gmail.com](mailto:aaronjanovitch@gmail.com)
-- 🔭&nbsp; I stay current on all things blockchain and continuously enhance my expertise in this dynamic field
-- 🌱&nbsp; Currently merging my Python experience with Solidity by learning the [Brownie](https://eth-brownie.readthedocs.io/en/stable/) framework
-- 🤝&nbsp; Open to collaborating on Solidity Smart Contracts
+🌍&nbsp; Based in the US, California \
+🖥️&nbsp; See my portfolio/resume at [aaronjanovitch.com](https://aaronjanovitch.com) \
+✉️ &nbsp; Contact me at [aaronjanovitch@gmail.com](mailto:aaronjanovitch@gmail.com) \
+🔭&nbsp; I stay current on all things blockchain and continuously enhance my expertise in this dynamic field \
+🌱&nbsp; Currently merging my Python experience with Solidity by learning the [Brownie](https://eth-brownie.readthedocs.io/en/stable/) framework \
+🤝&nbsp; Open to collaborating on Solidity Smart Contracts \
 
-### Programming Languages
+### 👾 Programming Languages
 
 <p align="left">
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="36" height="36" alt="JavaScript" /></a>
@@ -15,7 +15,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.CYpqc79M1jl94xw__TzDiQHaHa%26pid%3DApi&f=1&ipt=67e5685990a7d0d43f9cb4bd82ab033d47c2a5d7590009e9340e109add019b03&ipo=images" width="36" height="36" alt="Python" /></a>
 </p>
 
-### Technologies
+### 👨‍💻 Technologies
 
 <p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -35,10 +35,10 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" /></a>
 </p>
 
-### ⚡ Fun Facts:
+### ⚡Fun Facts:
 
-- 🥃&nbsp; As a pastime, I enjoy sipping whiskey and listening to the blues.
-- 🎵&nbsp; Jk I don't drink; but, I do like to play blues and jazz on the piano.
-- 🖼️&nbsp; I also like to code generative art and other projects with p5js.
+🥃&nbsp; As a pastime, I enjoy sipping whiskey and listening to the blues. \
+🎵&nbsp; Jk I don't drink; but, I do like to play blues and jazz on the piano. \
+🖼️&nbsp; I also like to code generative art and other projects with p5js. \
 
 [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronjan98&count_private=true&show_icons=true&theme=midnight-purple&text_color=00AEFF&icon_color=268bd2&title_color=b362ff&hide_border=true&hide=stars&custom_title=My+GitHub+Stats+)](https://aaronjanovitch.com)
