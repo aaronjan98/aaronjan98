@@ -6,5 +6,5 @@ I build software across the stack, often diving into mathematics to build more s
 🖥️&nbsp; Portfolio and resume at [aaronjanovitch.com](https://aaronjanovitch.com) \
 ✉️&nbsp; Contact me at [aaronjanovitch@gmail.com](mailto:aaronjanovitch@gmail.com) \
 🧮&nbsp; Deepening my engineering with applied mathematics \
-🏠&nbsp; Self-hosting my own services, including this git server \
+🏠&nbsp; Self-hosting my own services, including [this git server](https://git.aaronjanovitch.com/AJ) \
 🤝&nbsp; Open to collaborating on open source and self-hosted projects
